@@ -13,8 +13,7 @@ public class TestCpsfSimpleList {
 	
 	@Before
 	public void setUp() {
-//		list = new TomotakaLinkedList();
-		list = new MyLinkedList();
+		list = new TomotakaLinkedList();
 	}
 	
 	@Test
